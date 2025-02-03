@@ -1,7 +1,7 @@
 # Secret World
 
 <h3>Descrição</h3>
-<p>Game para advinhar palabras.</p>
+<p>Game para advinhar palavras.</p>
 
 ![image](https://github.com/user-attachments/assets/43de6d8d-438d-428c-829c-a0ddd8235904)
 
